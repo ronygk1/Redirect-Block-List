@@ -1,0 +1,11 @@
+! Title: Redirect Block List
+! Description: Blocks the eight socket domains supplied by the user
+! Version: 1.0
+||socket.18374938.com^
+||socket.15938489.com^
+||socket.11102925.com^
+||socket.16938403.com^
+||socket.14930291.com^
+||socket.12238921.com^
+||socket.17384782.com^
+||socket.13284932.com^
